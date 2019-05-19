@@ -39,35 +39,6 @@ Our work is a Python3 / [Keras](https://github.com/fchollet/keras) implementatio
 
 We worked in Google Colaboratory with free GPU runtime.
 
-Used notebooks:
-- [**Classic U-net with VGG16 backbone** ](https://colab.research.google.com/drive/1uhbsgXSFZZ4IEA4wyyDCtXbgcnnax7hi)
-
-- [**Classic U-net with VGG16 backbone and without transfer learning**](https://drive.google.com/open?id=1EYj_7DpoOToH87ffxDqW8KjJGwQpb6-j)
-
-- [**Classic U-net with VGG16 backbone and using simple geometric transformations as data augmentation**](https://drive.google.com/open?id=1NH-cbebrXl903auNHtey8mfsJk3haU4C)
-
-<p float="center">
-  <img src="https://ws3.sinaimg.cn/large/006tNbRwgy1fxspbgwxx8j312z0h5764.jpg"
-  ​        align="center"
-  ​        width="800" />
-</p>
-
-- [**Simplified U-net with VGG16 backbone**](https://drive.google.com/open?id=1n1LyYLeceS37QqEJkfX-Elh_hruyDH6w)
-
-<p float="center">
-  <img src="https://ws1.sinaimg.cn/large/006tNbRwgy1fxrgnley3jj310c0iljtd.jpg"
-          align="center"
-          width="800" />
-</p>
-
-- [**U-net with VGG16 backbone and dilated convolutions**](https://drive.google.com/open?id=1e3SjMulxvsdeXCldefEaPw0ILP0fjAiH)
-
-<p float="center">
-  <img src="https://ws2.sinaimg.cn/large/006tNbRwgy1fxo4yeljodj30t80fwabp.jpg"
-  ​        align="center"
-  ​        width="800" />
-</p>
-
 
 <a name="Setup"></a>
 
