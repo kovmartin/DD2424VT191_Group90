@@ -1,7 +1,3 @@
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![GitHub forks](https://img.shields.io/github/forks/kovmartin/Deep_learning_Homework_dynamic_duo.svg)](https://github.com/kovmartin/Deep_learning_Homework_dynamic_duo/network)
-[![GitHub stars](https://img.shields.io/github/stars/kovmartin/Deep_learning_Homework_dynamic_duo.svg)](https://github.com/kovmartin/Deep_learning_Homework_dynamic_duo/stargazers)
-
 # Our main project solution 
 
 <p align="left">
