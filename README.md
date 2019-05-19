@@ -27,8 +27,7 @@
   <img src="https://challenge2018.isic-archive.com/wp-content/uploads/2018/03/banner.jpg" width="750" /> 
 </p>
 
-This repository collects our methods and results for the main project work of the deep learning course. We solved the first task of the challenge which was to make automated predictions of lesion segmentation boundaries within dermoscopic images. Thus, it was a medical application where we had to solve a binary semantic segmentation problem. Our goal was to build variants of the famous U-net architecture and we tested them against each other. In all of the models we used the transfer learning approach and as well, tested the effect of the transfer learning too. We tried out different loss functions and eventually came up with a costume one.
-
+In this repository we summarize our results for the main project work of the DD2424 Deep Learning in Data Science course. We solved the first task of the ISIC 2018 challenge which was to make automated predictions of lesion segmentation boundaries within dermoscopic images. Thus, it was a medical computer vision application where we had to solve a binary semantic segmentation problem. Our goal was to build variants of the famous U-net architecture and we tested them against each other. In all of the models we used the transfer learning approach and as well, tested the effect of the transfer learning too. We tried out different loss functions and eventually came up with a costume one. We did experiments with data augmentation using simple geometric transformations. With these models we could achieve comparable results with the contestants in the competition.
 
 <a name="Solution_details"></a>
 ## Solution details 
